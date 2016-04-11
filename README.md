@@ -1,6 +1,6 @@
 # web-site
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.1.1.
+This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.5.0.
 
 ## Getting Started
 
@@ -11,6 +11,7 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 - [Bower](bower.io) (`npm install --global bower`)
 - [Ruby](https://www.ruby-lang.org) and then `gem install sass`
 - [Grunt](http://gruntjs.com/) (`npm install --global grunt-cli`)
+- [SQLite](https://www.sqlite.org/quickstart.html)
 
 ### Developing
 
@@ -27,12 +28,3 @@ Run `grunt build` for building and `grunt serve` for preview.
 ## Testing
 
 Running `npm test` will run the unit tests with karma.
-
-
-
-#Create express generator
-    sudo npm install -g express-generator
-
-    create express project: $ express -e -c less -f cli-app
-
-
